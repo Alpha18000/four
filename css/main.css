@@ -1,0 +1,14 @@
+span{
+    display: inline-block;
+color: whitesmoke;
+background: #000;
+text-align: center;
+font-size: 3rem;
+margin-top: 80px;
+margin-bottom: 45px;
+}
+h1{
+text-align: center;
+    font-size: 4rem;
+    color: rgb(44, 212, 212);
+}
